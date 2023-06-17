@@ -38,3 +38,12 @@ To run the project, use the following command:
 ```shell
   yarn start
 ```
+
+### User login 
+
+```shell
+  libId : 123456
+  pass : admin123
+```
+
+

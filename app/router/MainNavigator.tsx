@@ -47,8 +47,8 @@ const MainNavigator: React.FC = observer(() => {
   const {mainStore} = useStores();
 
   const [userLoginData, setUserLoginData] = useState<LoginType>({
-    libId: '123456',
-    pass: 'admin123',
+    libId: '',
+    pass: '',
   });
 
   useEffect(() => {
