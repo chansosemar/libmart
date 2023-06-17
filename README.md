@@ -1,7 +1,4 @@
-# React Native Project
-
-This is a React Native project that...
-
+# LIBMART Project
 ## Getting Started
 
 To get started with this project, follow the instructions below.
